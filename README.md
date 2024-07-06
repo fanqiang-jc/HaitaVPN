@@ -1,6 +1,6 @@
-# HaitaVPN 海獭机场官网地址
+# HaitaVPN 海獭机场官网地址（SS机场/ChatGPT 解锁支持/便宜机场/IEPL专线）
 
-tag:海獭,haitaVPN,机场推荐,vpn
+tag:海獭,haitaVPN,机场推荐,vpn,SS机场,ChatGPT,便宜机场,IEPL专线
 
 
 官网最新地址：[HaitaVPN 海獭机场官网](https://haita.io)
